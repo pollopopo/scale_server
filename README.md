@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/043bccce-76cb-4cc0-9d60-7dd3b8865d2e)
+
 # Scale Server - Applicazione Semplificata per Bilancia Dymo
 
 Benvenuto in Scale Manager Lite! Questa è un'applicazione leggera progettata per testare e gestire bilance Dymo M5/M10 collegate via USB. Fornisce un'interfaccia utente semplice e un'API RESTful per accedere ai dati del peso da altre applicazioni.
@@ -157,3 +159,6 @@ Quando si ridistribuisce questo software, è necessario includere una copia comp
 ---
 
 Speriamo che Scale Server ti sia utile!
+
+
+
