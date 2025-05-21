@@ -1,0 +1,52 @@
+Testo Legale per l'Applicazione "Scale Server"
+Informazioni sulla Licenza
+Copyright (c) 2025 [Fabio Martone]
+L'applicazione "Scale Server" è distribuita sotto licenza GNU General Public License v3.0 (GPL-3.0) a causa dell'inclusione di librerie con licenza GPL.
+Librerie Incluse e Relative Licenze
+Questa applicazione include le seguenti librerie o applicazioni di terze parti:
+
+PyQt6
+
+Licenza: GNU General Public License v3.0
+Copyright (c) 2023 Riverbank Computing Limited
+Sito web: https://www.riverbankcomputing.com/software/pyqt/
+
+
+Flask
+
+Licenza: BSD a 3 clausole
+Copyright (c) 2010 Pallets
+Sito web: https://flask.palletsprojects.com/
+
+
+pyusb (usb)
+
+Licenza: BSD a 3 clausole
+Copyright (c) 2009-2023 Wander Lairson Costa e collaboratori
+Sito web: https://github.com/pyusb/pyusb
+
+
+libusb
+
+Licenza: GNU Lesser General Public License v2.1
+Copyright (c) 2001-2023 libusb team
+Sito web: https://libusb.info/
+
+
+Zadig
+
+Licenza: GNU General Public License v3.0
+Copyright (c) 2010-2023 Pete Batard e collaboratori
+Sito web: https://zadig.akeo.ie/
+
+
+
+Termini di Licenza
+A causa dell'inclusione di componenti con licenza GPL (PyQt6 e Zadig), l'intera applicazione "Scale Server" è distribuita sotto licenza GNU General Public License v3.0.
+Questo programma è software libero: è possibile ridistribuirlo e/o modificarlo secondo i termini della GNU General Public License come pubblicata dalla Free Software Foundation, sia versione 3 della Licenza, sia (a propria scelta) una versione successiva.
+Questo programma è distribuito nella speranza che sia utile, ma SENZA ALCUNA GARANZIA; senza nemmeno la garanzia implicita di COMMERCIABILITÀ o IDONEITÀ PER UNO SCOPO PARTICOLARE. Vedere la GNU General Public License per ulteriori dettagli.
+Una copia della GNU General Public License è disponibile con questo programma. In caso contrario, visitare https://www.gnu.org/licenses/.
+Attribuzione e Avvisi
+L'utente deve mantenere tutti gli avvisi di copyright e attribuzione presenti in questo software e nella sua documentazione. Quando ridistribuisce questo software, l'utente deve includere una copia completa di questo documento di licenza.
+Contributi di Terze Parti
+Alcune parti di questo software includono opere sviluppate da terze parti. Queste opere sono soggette ai termini delle rispettive licenze.

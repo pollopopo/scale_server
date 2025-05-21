@@ -1,0 +1,6 @@
+{
+    "api_host": "0.0.0.0",
+    "api_port": 5000,
+    "api_enabled_on_startup": false,
+    "current_profile": "default"
+}
